@@ -8,8 +8,9 @@
 
 #### Wait, there is more...
 - I'm a fanatic homebrewer
-- I love to make content about the things I like
-- I like to learn more about the theory behind brewing beer
+- I'm a blogger and sometimes a Youtuber  
+- I just love to make content about the things I like
+- I love to read books about the Second World War
 
 <!--
 **andizer/andizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
