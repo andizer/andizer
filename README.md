@@ -2,8 +2,8 @@
 
 - I'm an experienced (> 11 years) developer specialized in PHP and MySQL
 - I'm working with WordPress code since August, 2014 
-- I love to discover new techniques like React and Redux
-- I'd love to learn more about things like (technical) SEO
+- I love to learn techniques that are new to me, like React and Redux
+- I love to learn more about things like (technical) SEO
 
 #### Wait, there is more...
 - I'm a fanatic homebrewer
