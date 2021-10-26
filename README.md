@@ -1,6 +1,7 @@
 ### This is Andy!
 
-- I'm an experienced (> 11 years) developer specialized in PHP and MySQL
+- I'm an experienced developer with more than 12 years of experience 
+- I'm specialized in PHP and MySQL
 - I'm working with WordPress code since August, 2014 
 - I love to learn techniques that are new to me, like React and Redux
 - I love to learn more about things like (technical) SEO
