@@ -8,7 +8,7 @@
 
 #### Wait, there is more...
 - I'm a fanatic homebrewer
-- I'm a [blogger](https://hopblog.nl) and sometimes a YouTuber 
+- I'm a blogger and sometimes a YouTuber 
 - I just love to make content about the things I like
 - I love to read books about the Second World War
 
